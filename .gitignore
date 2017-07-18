@@ -1,5 +1,6 @@
 # ignore file for JS files
 *.meta
+.idea/
 
 
 # Logs
