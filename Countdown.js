@@ -94,7 +94,7 @@ CDown.prototype = {
     },
 
     display: function(cnt,msg){
-        document.getElementById(cnt.id).innerHTML=msg;
+        document.getElementById("countdown1").innerHTML=msg;
     }
 };
 
